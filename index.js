@@ -1,6 +1,6 @@
 const btn = document.querySelector('.btn')
 const image = document.querySelector('.img')
-const url = 'https://aws.random.cat/meow'
+const url = 'HTTPS://aws.random.cat/meow'
 
 async function fetchHandler() {
     try {
